@@ -67,4 +67,4 @@ done
 
 # escreveram este programa:
 # angela ferreira
-# Fernando Graeff Machado
+# samuel pedro ribeiro
